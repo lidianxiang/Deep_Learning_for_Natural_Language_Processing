@@ -10,4 +10,4 @@
 + 开发聊天机器人
 + 实现研究论文：情感分类
 
-![tupian](https://ask.qcloudimg.com/http-save/yehe-1000017/04izd99nke.jpeg?imageView2/2/w/1620)
+![tupian](http://img3m2.ddimg.cn/14/26/26516372-1_w_3.jpg)
